@@ -1,5 +1,7 @@
 # The Good Avocado App
 
+Deployed - https://thegoodavocado.netlify.app/
+
 A Yelp Mockup: Restaurant Reviews and Descriptions
 
 ## The Flossing Avocados
